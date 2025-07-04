@@ -7,3 +7,8 @@ Equipo de desarrollo:
 - Andrakolis
 - Vanship
 - Camilo
+
+- Gabriel
+- Andres
+- Ismael
+- Carlos
